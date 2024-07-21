@@ -1,0 +1,55 @@
+h2 {
+  margin-top: 5px;
+}
+
+h3 {
+  margin-top: -9px;
+}
+.product-container h2, h3 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h5, p, .btn-primary, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-style: thin;
+  font-weight: 300;
+}
+
+.card-img-top {
+  width: 100%;
+  height: auto;
+}
+
+.card-body {
+  padding: 15px;
+}
+
+a {
+color: #C738BD;
+}
+
+a:checked {
+  color: #BEADFA;
+}
+
+.card {
+  text-align: center;
+}
+
+
+.card-body .btn-primary {
+    background-color: #BEADFA;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.card-body button:hover {
+  background-color: #C738BD;
+  color: white;
+}

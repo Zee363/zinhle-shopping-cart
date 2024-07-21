@@ -1,0 +1,14 @@
+h2, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-style: thin;
+  font-weight: 300;
+}
+
+
+a {
+color: #C738BD;
+}
+
+a:checked {
+  color: #BEADFA;
+}
